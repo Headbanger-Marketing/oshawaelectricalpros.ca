@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oshawaelectricalpros.ca/sitemap-index.xml
